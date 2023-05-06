@@ -1,0 +1,52 @@
+body {
+    background-color: hsla(28, 100%, 27%, 0.868);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:1.5rem;
+}
+h1 {
+    text-align: center;
+    font-size: 3em;
+    font-weight: 800;
+}
+#he-man{
+    color:rgba(239, 41, 226, 0.759);
+    background-color: black;
+}
+img{
+    display: block;
+    margin: 0px auto;
+    width: 40vw;
+    height: 50vh;
+}
+.recipes{
+    font-size:1.5em;
+}
+.list{
+    font-size:1.5em;
+}
+.home{
+    font-size:2rem;
+    color:blue;
+}
+.taco.recipe{
+    color:hwb(63 10% 7% / 0.759);
+    background-color: blanchedalmond;
+}
+span,p{
+    color:white;
+    display:flex;
+    justify-content: center;
+}
+.spaghetti.recipe{
+    color:rgba(240, 11, 11, 0.759);
+    background-color: yellow;
+}
+
+ul, ol,h2{
+    color:white;
+}
+
+.lasagna.recipe{
+    color: yellowgreen;
+    background-color: orangered;
+}
